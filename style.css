@@ -213,6 +213,12 @@ height: 370px;
             width: auto;
              }
 
+    .sim2{
+        position: static;
+        width: auto;
+        height: auto;
+                }
+
     .blog{
                 flex-wrap: wrap;
                 height: auto;
@@ -233,15 +239,16 @@ height: 370px;
     .video1{
         width: auto;
         height: auto;
-        
-
+        position: relative;
+        margin: 30px;
     }
+
 
         .titulo{
             width: auto;
             height: auto;
             position: static;
-            font-size: 8px;
+            font-size: 18px;
             text-align: justify;
         }
 

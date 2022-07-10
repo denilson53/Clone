@@ -153,7 +153,7 @@ nav ul li .caret {
         font-size: 25px;
         font-weight: bold;
         text-decoration: none;
-        width: 350px;
+        width: 450px;
     }
 
     .menu-fixo span {
@@ -204,6 +204,16 @@ nav ul li .caret {
         margin-left: 10px;
     }
 }
+
+@media screen and (max-width: 900px) {
+
+
+    .menu-fixo .btn-mobile {
+
+        width: 410px;
+    } 
+}
+
 /*Menu Responsivo*/
 
 /*FOOTER*/
